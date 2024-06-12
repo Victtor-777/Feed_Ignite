@@ -1,30 +1,29 @@
-# React + TypeScript + Vite
+<p>
+  <img src="/src/assets/preview.png" width="100%" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌼 Feed Ignite
 
-Currently, two official plugins are available:
+Projeto de um "blog" no curso react da rocketseat, nesse projeto aproveitamos para treinar os fundamento do react, como uso de estados e os conceitos como a imutabilidade, ótimo projeto para .
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Veja o projeto: [Preview](https://feed-ignite-victtor.vercel.app/)
 
-## Expanding the ESLint configuration
+## ⚙️ Funcionalidades
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- [x] Projeto feito a partir de um design público do Figma;
+- [x] Função de postar e deletar comentários (usando a imutabilidade);
+- [x] Função de dar "Like" nos comentários;
+- [x] Site totalmente responsivo e intuitivo;
 
-- Configure the top-level `parserOptions` property like this:
+## 🚀 Tecnologias
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Typescript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 📝 Considerações
+
+Projeto simples, mas ajuda a praticar e a fortalecer ainda mas os fundamentos que são a parte mais importante em qualquer aprendizado.
