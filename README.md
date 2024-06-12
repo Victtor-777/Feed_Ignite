@@ -4,7 +4,7 @@
 
 # 📝 Feed Ignite
 
-Projeto de um "blog" no curso react da rocketseat, nesse projeto aproveitamos para treinar os fundamento do react, como uso de estados e os conceitos como a imutabilidade, ótimo projeto para práticar os fundamentos do React.
+Projeto de um "blog" no curso react da rocketseat, nesse projeto aproveitamos para treinar os fundamento do react, como uso de estados e os conceitos como a imutabilidade, ótimo projeto para praticar os fundamentos do React.
 
 - Veja o projeto: [Preview](https://feed-ignite-victtor.vercel.app/)
 
