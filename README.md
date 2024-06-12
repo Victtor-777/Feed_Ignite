@@ -2,7 +2,7 @@
   <img src="/src/assets/preview.png" width="100%" />
 </p>
 
-# 🌼 Feed Ignite
+# 📝 Feed Ignite
 
 Projeto de um "blog" no curso react da rocketseat, nesse projeto aproveitamos para treinar os fundamento do react, como uso de estados e os conceitos como a imutabilidade, ótimo projeto para .
 
